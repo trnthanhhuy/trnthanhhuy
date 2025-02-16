@@ -1,6 +1,7 @@
 
-<h1 align="left">Hi 👋, I'm trnthanhhuy</h1>
+<h1 align="left">Hi, I'm trnthanhhuy</h1>
 <h3 align="left">A junior coder/developer from Vietnam</h3>
+<h3 align="left">Hoang Sa and Truong Sa belong to Vietnam!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
