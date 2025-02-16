@@ -1,4 +1,4 @@
-<img align="center" src="https://pin.it/59uDAwV2K](https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif">
+<img align="center" src="https://pin.it/59uDAwV2K](https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" alt="trnthanhhuy" height=100% width=100%>
 <h1 align="center">Hi, I'm trnthanhhuy</h1>
 <h3 align="center">A junior coder/developer from Vietnam</h3>
 <h3 align="center">Hoang Sa and Truong Sa belong to Vietnam!</h3>
