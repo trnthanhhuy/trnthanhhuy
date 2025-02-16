@@ -1,10 +1,10 @@
 
-<h1 align="left">Hi, I'm trnthanhhuy</h1>
-<h3 align="left">A junior coder/developer from Vietnam</h3>
-<h3 align="left">Hoang Sa and Truong Sa belong to Vietnam!</h3>
+<h1 align="center">Hi, I'm trnthanhhuy</h1>
+<h3 align="center">A junior coder/developer from Vietnam</h3>
+<h3 align="center">Hoang Sa and Truong Sa belong to Vietnam!</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://instagram.com/trnthanhhuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trnthanhhuy" height="30" width="40" /></a>
 </p>
 
