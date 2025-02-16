@@ -1,4 +1,4 @@
-<img src="https://github.com/trnthanhhuy/trnthanhhuy/blob/main/e84edb279472c7ab49e97ec276d4ffda-ezgif.com-crop.gif" width="100%" height="100px">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FweDBlZGNnNmpsOHl3czd5aWd2NnhtZDZwajJyYnZwanZsMGVxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5z83g65j4axkCSn6MR/giphy.gif" width="100%">
 <h1 align="center">Hi, I'm trnthanhhuy</h1>
 <h3 align="center">A junior coder/developer from Vietnam</h3>
 <h3 align="center">Hoang Sa and Truong Sa belong to Vietnam!</h3>
