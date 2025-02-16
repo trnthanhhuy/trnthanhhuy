@@ -1,4 +1,4 @@
-<img src="https://github.com/trnthanhhuy/trnthanhhuy/main/e84edb279472c7ab49e97ec276d4ffda-ezgif.com-crop.gif">
+<img src="https://github.com/trnthanhhuy/trnthanhhuy/blob/main/e84edb279472c7ab49e97ec276d4ffda-ezgif.com-crop.gif">
 <h1 align="center">Hi, I'm trnthanhhuy</h1>
 <h3 align="center">A junior coder/developer from Vietnam</h3>
 <h3 align="center">Hoang Sa and Truong Sa belong to Vietnam!</h3>
