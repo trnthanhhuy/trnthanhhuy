@@ -1,7 +1,7 @@
 
 <h1 align="left">Xin chao!!!</h1>
 <h2 align="left">I'm trnthanhhuy, a junior coder/developer from Vietnam</h2>
-<h5 align="center">Hoang Sa and Truong Sa belong to Vietnam!</h5>
+<h2 align="center">Hoang Sa and Truong Sa belong to Vietnam!</h2>
 
 # Connect with me:
 <a href="https://instagram.com/trnthanhhuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trnthanhhuy" height="30" width="40" /></a>
