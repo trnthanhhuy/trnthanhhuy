@@ -1,5 +1,5 @@
 
-<h1 align="center">Xin chao!!!</h1>
+<h1 align="left">Xin chao!!!</h1>
 <h2 align="left">I'm trnthanhhuy, a junior coder/developer from Vietnam</h2>
 <h5 align="center">Hoang Sa and Truong Sa belong to Vietnam!</h5>
 
